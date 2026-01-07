@@ -1,0 +1,11 @@
+a=input("total class")
+b=input("class attendance percentage")
+x=(a&b)*100
+print("enter the x value")
+if>75%
+  print("percentage eligible")
+print("eligible additional class")
+else  
+print("status:not eligible")
+n=((75/100)*a)-b)
+print("additional classes required:8")
