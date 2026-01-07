@@ -1,0 +1,4 @@
+a=input("student_name")
+b=input("student_dept")       
+x=(a&b)
+ 
